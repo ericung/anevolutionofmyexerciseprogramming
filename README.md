@@ -159,14 +159,14 @@ Day 6:\
 	Pull Ups(3x1-exhaustion)\
 	Back Extension(3x8-12)\
 Day 5:\
-	A:
+	A:\
 	**Bench(3x3-5, 9x1, 1x1)**\
 	**Dip(3x1-5)**\
 	Skullcrusher(3x8-12)\
 	Tricep Extensions(3x8-12)\
 	Chest Flys(3x8-12)
 	Pullover(3x8-12)
-	B:
+	B:\
 	**Press**(3x5-8)\
 	Inclined Dumbbell Press(3x8-12)\
 	Incline Fly(3x8-12)\
