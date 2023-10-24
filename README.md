@@ -45,7 +45,7 @@ The problem with this template is that going to exhaustion every day can get tir
 
 One advice here is that deadlifting once a week is enough because if you lift heavy enough, it should burn your CNS.
 
-The most important advice if you start with this routine is to learn how to eat enough protein, carbs, and fat in a way that allows you to ingest it all without throwing up.
+The most important advice if you start with this routine is to learn how to eat enough protein, carbs, and fat in a way that allows you to ingest it all without throwing up. Discovering what kind of macronutrient your body needs is important in the long run. Some people need more protein, others need more carbs, and others need fat. Others need amix of the three.
 
 * *Strength and Conditioning class in high school and college* *
 -----
